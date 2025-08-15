@@ -14,6 +14,13 @@ Perfect for keeping your daily tasks organized.
 
 ---
 
+💻 Deployment
+
+This web app is hosted on Netlify. You can check it out live here:  
+[tiny-churros-f1415d.netlify.app](https://tiny-churros-f1415d.netlify.app)
+
+---
+
 🛠️ Technologies Used
 
 - HTML — Page structure
